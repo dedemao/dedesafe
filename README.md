@@ -6,7 +6,7 @@
 <img src="https://www.dedemao.com/uploads/allimg/2018/03/2-1P30521395R49.jpg">
 
 ## 使用说明
-1、下载gbk.xml或utf-8.xml ，下载地址：https://github.com/dedemao/dedesafe/releases/tag/1.5
+1、下载gbk.xml或utf-8.xml ，下载地址：https://github.com/dedemao/dedesafe/releases
 
 2、登录织梦后台，找到左侧菜单‘模块’- ‘上传新模块’
 
